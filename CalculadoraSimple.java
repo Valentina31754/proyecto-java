@@ -17,7 +17,7 @@ public class CalculadoraSimple {
 
         System.out.println("Resultado de la suma: " + resultadoSuma);
         System.out.println("Resultado de la multiplicación: " + resultadoMultiplicacion);
-        o9iu
+        
     }
 }
     
